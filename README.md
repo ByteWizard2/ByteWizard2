@@ -9,7 +9,7 @@ Hello, Welcome to my GitHub profile! I'm a highly passionate web developer, cons
 Here’s a quick overview of the technologies I work with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c sharp,react,redux,nodejs,express,mongodb,postgres,tailwind,git,github,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,csharp,react,redux,nodejs,express,mongodb,postgres,tailwind,git,github,figma,vercel" />
 </p>
 
 ---
