@@ -15,10 +15,10 @@ Here’s a quick overview of the technologies I work with:
 ---
 
 ## 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/shabeen-sharih/" target="_blank">
+<a href="https://www.linkedin.com/in/shaahir08/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.instagram.com/shabinsharih/" target="_blank">
+<a href="https://www.instagram.com/sha_x_r/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
