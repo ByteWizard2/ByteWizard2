@@ -22,6 +22,4 @@ Here’s a quick overview of the technologies I work with:
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<div align="center">
-  <sub><sup>✨Crafted by ChatGPT✨</sup></sub>
-</div>
+
